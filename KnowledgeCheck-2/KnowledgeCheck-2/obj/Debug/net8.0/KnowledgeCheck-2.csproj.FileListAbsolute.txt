@@ -1,0 +1,15 @@
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/bin/Debug/net8.0/KnowledgeCheck-2
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/bin/Debug/net8.0/KnowledgeCheck-2.deps.json
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/bin/Debug/net8.0/KnowledgeCheck-2.runtimeconfig.json
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/bin/Debug/net8.0/KnowledgeCheck-2.dll
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/bin/Debug/net8.0/KnowledgeCheck-2.pdb
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.AssemblyInfoInputs.cache
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.AssemblyInfo.cs
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.csproj.CoreCompileInputs.cache
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.sourcelink.json
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.dll
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/refint/KnowledgeCheck-2.dll
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.pdb
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/KnowledgeCheck-2.genruntimeconfig.cache
+/Users/ryanmodisette/Documents/codeYou/Projects/SDKC-2/KnowledgeCheck-2/KnowledgeCheck-2/obj/Debug/net8.0/ref/KnowledgeCheck-2.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnowledgeCheck-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b1daa215226506748cb6445af58a3632fad118f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d112df9f80be89c255bce533e264bdff478eb77f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnowledgeCheck-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnowledgeCheck-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
